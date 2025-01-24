@@ -1,2 +1,2 @@
 # Python-beginner-level
-#1. Print() ,typecasting , Identifier()
+#1. Print() ,typecasting , Identifier() , Variable , String , Operator()
